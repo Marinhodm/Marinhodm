@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0b0b0b,65:1c1c3a,85:5c1111,100:d63a1f&height=250&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <h1 align="center">Hello! I'm Daniel 👋</h1>
@@ -15,6 +15,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Graduando em **Engenharia de Software** pela **CEUNI FAMETRO**.
+- 💻 Atualmente no **5º período**.
 - 🧪 Interesse em **QA, testes de software e automação**.
 - 🐍 Estudando e desenvolvendo projetos com **Python**.
 - 🗄️ Conhecimentos em **SQL e bancos de dados**.
@@ -26,7 +27,7 @@
 
 ### 🛠️ Minha Caixa de Ferramentas
 
-**Linguagens & Desenvolvimento:**
+**Linguagens & Desenvolvimento**
 
 <div align="left">
 
@@ -46,7 +47,7 @@
 
 </div>
 
-**Banco de Dados & Ferramentas:**
+**Banco de Dados & Ferramentas**
 
 <div align="left">
 
@@ -85,11 +86,11 @@
 
 ---
 
-### 📈 Atividade
+### 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Marinhodm/Marinhodm/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" width="90%" alt="activity graph"/>
+<img src="https://raw.githubusercontent.com/Marinhodm/Marinhodm/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" width="95%" alt="activity graph"/>
 
 </div>
 
@@ -109,7 +110,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
