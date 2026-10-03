@@ -2,6 +2,10 @@
 
 ###
 
+<img data-importer="image" align="right" height="254" src="https://media1.tenor.com/m/exCcCzLWHw4AAAAd/ichigo-manga-animation.gif"  />
+
+###
+
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -27,24 +31,13 @@
 
 ###
 
-<img data-importer="image" align="right" height="254" src="https://media1.tenor.com/m/exCcCzLWHw4AAAAd/ichigo-manga-animation.gif"  />
-
-###
-
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/Marinhodm/Marinhodm/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/Marinhodm/Marinhodm/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Marinhodm&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marinhodm/Marinhodm/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
