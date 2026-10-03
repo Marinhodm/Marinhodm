@@ -1,4 +1,4 @@
-name: Generate trophy card
+name: Generate Trophy
 
 on:
   schedule:
@@ -18,14 +18,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate trophy
+      - name: Generate Trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: 'username=${{ github.repository_owner }}&theme=dracula&column=7&row=1&margin-w=8&margin-h=8'
+          options: "username=${{ github.repository_owner }}&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
           path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit trophy
+      - name: Commit Trophy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
