@@ -1,12 +1,20 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:111111,65:2b2b2b,85:555555,100:111111&height=250&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
 
 <table>
 <tr>
 <td width="65%" align="center">
 
-<h1>Welcome to my profile! 👋</h1>
+<h1>Hello! I'm Daniel 👋</h1>
 
-<h3>Software Engineering Student | QA & Testing | Python | SQL</h3>
+<h3>Software Engineering | QA & Testing | Python | SQL</h3>
+
+<p>
+<i>Software Engineering student focused on turning knowledge into practical solutions.</i>
+</p>
 
 </td>
 
@@ -19,16 +27,6 @@
 </table>
 
 </div>
-
----
-
-<h1 align="center">Hello! I'm Daniel 👋</h1>
-
-<h3 align="center">Software Engineering | QA & Testing | Python | SQL</h3>
-
-<p align="center">
-  <i>Software Engineering student focused on turning knowledge into practical solutions.</i>
-</p>
 
 ---
 
