@@ -1,8 +1,8 @@
 
     <svg
-      width="818"
+      width="936"
       height="110"
-      viewBox="0 0 818 110"
+      viewBox="0 0 936 110"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
@@ -52,7 +52,7 @@
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#ff79c6">Commits</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#f8f8f2">Middle Committer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">16pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">17pt</text>
           
     <style>
     @keyframes CommitsRankAnimation {
@@ -60,7 +60,7 @@
         width: 0px;
       }
       to {
-        width: 5.33px;
+        width: 6.22px;
       }
     }
     #Commits-rank-progress{
@@ -568,8 +568,8 @@
         </svg>
         
         <svg
-          x="0"
-          y="118"
+          x="826"
+          y="0"
           width="110"
           height="110"
           viewBox="0 0 110 110"
