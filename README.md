@@ -78,7 +78,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+
 
 </div>
 
