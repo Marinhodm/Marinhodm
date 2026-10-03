@@ -1,33 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0b0b0b,65:1c1c3a,85:5c1111,100:d63a1f&height=250&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<table>
+<tr>
+<td width="65%" align="center">
+
+<h1>Welcome to my profile! 👋</h1>
+
+<h3>Software Engineering Student | QA & Testing | Python | SQL</h3>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media1.tenor.com/m/exCcCzLWHw4AAAAd/ichigo-manga-animation.gif" width="250">
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
 
 <h1 align="center">Hello! I'm Daniel 👋</h1>
 
-<h3 align="center">Engenharia de Software | QA & Testes | Python | SQL</h3>
+<h3 align="center">Software Engineering | QA & Testing | Python | SQL</h3>
 
 <p align="center">
-  <i>Estudante de Engenharia de Software buscando transformar conhecimento em soluções práticas.</i>
+  <i>Software Engineering student focused on turning knowledge into practical solutions.</i>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-- 🎓 Graduando em **Engenharia de Software** pela **CEUNI FAMETRO**.
-- 💻 Atualmente no **5º período**.
-- 🧪 Interesse em **QA, testes de software e automação**.
-- 🐍 Estudando e desenvolvendo projetos com **Python**.
-- 🗄️ Conhecimentos em **SQL e bancos de dados**.
-- ☁️ Interesse em **AWS e tecnologias em nuvem**.
-- 🤖 Explorando **Inteligência Artificial, LLMs e automação**.
-- 🚀 Buscando minha primeira oportunidade na área de **TI**.
+- 🎓 Software Engineering student at **CEUNI FAMETRO**.
+- 💻 Currently in my **5th semester**.
+- 🧪 Interested in **QA, software testing and test automation**.
+- 🐍 Studying and developing projects with **Python**.
+- 🗄️ Knowledge of **SQL and databases**.
+- ☁️ Interested in **AWS and cloud technologies**.
+- 🤖 Exploring **Artificial Intelligence, LLMs and automation**.
+- 🚀 Looking for my first professional opportunity in **IT**.
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas
+### 🛠️ My Tech Stack
 
-**Linguagens & Desenvolvimento**
+**Languages & Development**
 
 <div align="left">
 
@@ -47,7 +67,7 @@
 
 </div>
 
-**Banco de Dados & Ferramentas**
+**Database & Tools**
 
 <div align="left">
 
@@ -86,7 +106,7 @@
 
 ---
 
-### 📈 Atividade no GitHub
+### 📈 GitHub Activity
 
 <div align="center">
 
@@ -96,7 +116,7 @@
 
 ---
 
-### 👾 Contribuições
+### 👾 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marinhodm/Marinhodm/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -106,7 +126,7 @@
 
 ---
 
-### 📫 Vamos nos conectar!
+### 📫 Let's Connect!
 
 <div align="center">
 
@@ -124,6 +144,6 @@
 
 <div align="center">
 
-<i>"Transformando conhecimento em código e ideias em soluções."</i>
+<i>"Turning knowledge into code and ideas into solutions."</i>
 
 </div>
