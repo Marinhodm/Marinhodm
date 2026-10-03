@@ -27,8 +27,6 @@
 
 ###
 
-<br clear="both">
-
 <img data-importer="image" align="right" height="254" src="https://media1.tenor.com/m/exCcCzLWHw4AAAAd/ichigo-manga-animation.gif"  />
 
 ###
